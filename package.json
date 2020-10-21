@@ -1,0 +1,26 @@
+{
+  "name": "@animalresearch/woopra-react",
+  "version": "1.0.0",
+  "description": "Woopra SDK for React",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/animalresearch/woopra-react.git"
+  },
+  "keywords": [
+    "woopra",
+    "react"
+  ],
+  "author": "Pablo Dorado <pablo@theowly.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/animalresearch/woopra-react/issues"
+  },
+  "homepage": "https://github.com/animalresearch/woopra-react#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
